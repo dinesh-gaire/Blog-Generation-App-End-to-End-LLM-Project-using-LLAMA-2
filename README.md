@@ -16,8 +16,8 @@ This is an end-to-end Blog Generation application powered by LLAMA-2, a large la
 ## 🚀 Installation
 ##### 1. Clone the Repository
 ```
-git clone https://your-repository-url.git
-cd blog-generation-app
+git clone https://github.com/dinesh-gaire/Blog-Generation-App-End-to-End-LLM-Project-using-LLAMA-2.git
+cd Blog-Generation-App-End-to-End-LLM-Project-using-LLAMA-2
 ```
 ##### 2. Create a Virtual Environment
 ```
